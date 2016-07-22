@@ -11,9 +11,6 @@ if ! command -v brew > /dev/null; then
   printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
 fi
 
-# Bash
-brew install bash
-
 # Git
 brew install git
 
