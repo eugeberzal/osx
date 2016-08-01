@@ -70,7 +70,7 @@ export VIRTUAL_BOX_APP_NAME=VirtualBox.app
 export VIRTUAL_BOX_APP_URL="http://download.virtualbox.org/virtualbox/5.0.24/VirtualBox-5.0.24-108355-OSX.dmg"
 
 export VLC_APP_NAME=VLC.app
-export VLC_APP_URL="http://get.videolan.org/vlc/2.2.2/macosx/vlc-2.2.2.dmg"
+export VLC_APP_URL="http://get.videolan.org/vlc/2.2.2/macosx/vlc-2.2.4.dmg"
 
 
 export SUBLIME_TEXT_EXTENSION_ROOT="$HOME/Library/Application Support/Sublime Text 3/Packages"
