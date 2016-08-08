@@ -33,6 +33,7 @@ install_zip_app "$ISTATS_APP_URL" "$ISTATS_APP_NAME"
 # iTerm
 install_zip_app "$ITERM_APP_URL" "$ITERM_APP_NAME"
 
+# @todo fix
 # Prey
 install_dmg_pkg "$PREY_APP_URL" "Prey" "$PREY_APP_NAME"
 
