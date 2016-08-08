@@ -49,7 +49,7 @@ export ISTATS_APP_NAME="iStat Menus.app"
 export ISTATS_APP_URL="http://download.bjango.com/istatmenus"
 
 export ITERM_APP_NAME=iTerm.app
-export ITERM_APP_URL="https://iterm2.com/downloads/stable/iTerm2-3_0_4.zip"
+export ITERM_APP_URL="https://iterm2.com/downloads/stable/iTerm2-3_0_5.zip"
 
 export PREY_APP_NAME=Prey
 export PREY_APP_URL="https://prey-releases.s3.amazonaws.com/node-client/1.6.1/prey-mac-1.6.1-x86.pkg"
