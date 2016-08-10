@@ -43,6 +43,9 @@ install_dmg_app "$RESCUE_TIME_APP_URL" "RescueTime" "$RESCUE_TIME_APP_NAME"
 # Sublime Text
 install_dmg_app "$SUBLIME_TEXT_APP_URL" "Sublime Text" "$SUBLIME_TEXT_APP_NAME"
 
+# Transmission
+install_dmg_app "$TRANSMISSION_APP_URL" "$TRANSMISSION_APP_NAME"
+
 # Transmit
 install_zip_app "$TRANSMIT_APP_URL" "$TRANSMIT_APP_NAME"
 
