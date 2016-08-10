@@ -60,6 +60,9 @@ export RESCUE_TIME_APP_URL="https://www.rescuetime.com/installers/RescueTimeInst
 export SUBLIME_TEXT_APP_NAME="Sublime Text.app"
 export SUBLIME_TEXT_APP_URL="https://download.sublimetext.com/Sublime%20Text%20Build%203114.dmg"
 
+export SUBLIME_TEXT_APP_NAME=Transmission
+export TRANSMISSION_APP_URL="https://download.transmissionbt.com/files/Transmission-2.92.dmg"
+
 export TRANSMIT_APP_NAME=Transmit.app
 export TRANSMIT_APP_URL="http://download.panic.com/transmit/Transmit%204.4.10.zip"
 
